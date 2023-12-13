@@ -170,6 +170,8 @@
   .spinner {
     margin: 5rem auto;
     text-align: center;
+    width: 100px; height: 100px; background-color: red;
+    z-index: 999;
   
     svg {
       height: 6rem;
